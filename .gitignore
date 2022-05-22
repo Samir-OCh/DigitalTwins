@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Node Modules
+/digital-twins-explorer/client/node_modules/*
+/digital-twins-explorer/client/examples/~$distributionGrid.xlsx
+
+#test
+/test
+
