@@ -57,6 +57,9 @@ Vista de modelos cargados ![Alt text](/images/show_models.png)
 # Recursos
 - Precio <link>https://azure.microsoft.com/en-us/pricing/details/digital-twins/</link>
 
+- Extension VSCode para archivos DTDL <link>https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-dtdl</link>
+![Alt text](/images/dtdl_vscode.png)
+
 # Referencias
 - Azure Digital Twins Explorer <link>https://docs.microsoft.com/es-mx/samples/azure-samples/digital-twins-explorer/digital-twins-explorer/?WT.mc_id=docs-azuredevtipsvideo-azureappsdev</link>
 - Introducción a Azure Digital Twins <link>https://docs.microsoft.com/es-es/azure/digital-twins/quickstart-azure-digital-twins-explorer</link>
