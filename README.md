@@ -12,7 +12,7 @@ Este repositorio contiene información sobre como iniciar en Azure Digital Twins
 - Descargar Repositorio de ejemplo: <link>https://github.com/azure-samples/digital-twins-explorer/tree/main/</link> o puedes usar el que se encuentre en este repositorio en la carpeta digital-twins-explorer (descargado el 21/05/2022)
 ## Paso 3: Iniciar o instalar Azure Digital Twins Explorer
 ### Opción 1: Iniciar Digital Explorer desde Azure 
-![Alt text](/images/referencia_azure_digital_twins_explorer.png?raw=true)
+![Alt text](/images/referencia_azure_digital_twins_explorer.png)
 ### Opción 2: Instalar Azure Digital Twins Explorer
 - Instalar Azure CLI y Activar cuenta de Azure <link>https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli</link>
 - Instalar Node JS  <link>https://nodejs.org/en/download/?WT.mc_id=other-azuredevtipsvideo-azureappsdev</link>
